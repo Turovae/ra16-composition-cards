@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/s5x0iqiag2m034fp?svg=true)](https://ci.appveyor.com/project/Turovae/ra16-composition-cards)
+
+---
+
 Карточки
 ===
 
